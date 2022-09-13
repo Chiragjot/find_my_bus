@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/sidharthchoudhary/StudioProjects/find_my_bus/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/848489e51d9de23f098d6b162619a157/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\84cf6d4ca94e3b1c76e304cfa2a608ca\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/sidharthchoudhary/StudioProjects/find_my_bus/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/848489e51d9de23f098d6b162619a157/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\84cf6d4ca94e3b1c76e304cfa2a608ca\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/sidharthchoudhary/StudioProjects/find_my_bus/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/848489e51d9de23f098d6b162619a157/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\84cf6d4ca94e3b1c76e304cfa2a608ca\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/sidharthchoudhary/StudioProjects/find_my_bus/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/sidharthchoudhary/.gradle/caches/transforms-3/848489e51d9de23f098d6b162619a157/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\84cf6d4ca94e3b1c76e304cfa2a608ca\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
     }
 ]

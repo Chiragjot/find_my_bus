@@ -1,3 +1,13 @@
+## IN CASE YOU ARE RUNNING INTO ERRORS OR ISSUES WHILE RUNNING THIS APP IN A FLUTTER ENV, TRY THIS.
+* Change compileSdkVersion to 32 in ./android/app/build.gradle
+* run ```flutter pub upgrade```
+* run ```flutter pub upgrade --major-versions``` (just in case)
+* run ```flutter clean```
+* delete pubspec.lock
+* run ```flutter pub get```
+* run the app.
+
+
 # Find My Bus App UI
 A clone of the Instagram App UI.
 

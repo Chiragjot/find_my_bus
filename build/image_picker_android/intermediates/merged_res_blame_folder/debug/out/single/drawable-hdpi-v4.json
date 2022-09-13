@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\0c10009f15e7a18174b2770a110eeb45\\transformed\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\0c10009f15e7a18174b2770a110eeb45\\transformed\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\0c10009f15e7a18174b2770a110eeb45\\transformed\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\0c10009f15e7a18174b2770a110eeb45\\transformed\\core-1.8.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "J:\\FlutterTraining\\forked\\find_my_bus\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\chira\\.gradle\\caches\\transforms-3\\0c10009f15e7a18174b2770a110eeb45\\transformed\\core-1.8.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

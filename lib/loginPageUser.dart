@@ -105,7 +105,7 @@ class _LoginPageState extends State<LoginPage> {
                 ),
               ),
               Padding(
-                padding: const EdgeInsets.onl y(
+                padding: const EdgeInsets.only(
                   top: 31.0,
                   left: 14.0,
                   right: 13.0,
